@@ -68,7 +68,7 @@ margin-left: 80%
 
 .wrapper2 {
   display: grid;
-  grid-auto-rows: 500px;
+  grid-auto-rows: 40%;
 }
 
 .one{
@@ -110,6 +110,7 @@ margin-left: 80%
 
 .three{
   background-color: #060102;
+   text-align: center;
 }
 
 .image3{
@@ -119,10 +120,12 @@ margin-left: 80%
 
 .four{
   background-color: #DFDFDF;
+  
 }
 
 .five{
   background-color: #520000;
+  text-align: center;
 }
 
 .image5{
@@ -132,6 +135,7 @@ margin-left: 80%
 
 .six{
   background-color: #060102;
+   text-align: center;
 }
 
 .image4{
@@ -183,9 +187,4 @@ margin-left: 80%
 .foto4{
   width: 60%;
   height: 85%;
-}
-
-.wrapper4 {
-  display: grid;
-  grid-auto-rows: 500px;
 }
