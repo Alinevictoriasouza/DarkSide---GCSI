@@ -8,7 +8,6 @@ background-image: url("img3.jpg");
   background-size:cover ;
   background-position: center;
   
-  
 /*   width: 100%;
   position: absolute; */
 }
@@ -22,7 +21,7 @@ background-image: url("img3.jpg");
 
 }
 
-h1{
+.titulo{
   margin-top: 600px;
   color: #fff;
   text-align: center;
@@ -41,24 +40,109 @@ h2{
 .text2{
   color: #fff;
 /*   position: absolute; */
-  margin-left: 60%;
+    padding: 8rem;
 }
+
 .text3{
-  color: #fff;  
-/*   position: absolute; */
-  margin-left: 70%;
-}
-.text4{
-  color: #fff;  
-/*   position: absolute; */
-  margin-left: 80%;
-}
-.text5{
   color: #fff;
   background-color: #550707;
   border-radius: 15px;
 /*   position: absolute; */
   text-align: center;
   width: 100px;
-  margin-left: 90%;
+margin-left: 80%
+}
+.header{
+  display: flex;
+}
+
+.linha1{
+  margin-top: ;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(2, 7fr);
+  grid-auto-rows: 300px;
+}
+
+.wrapper2 {
+  display: grid;
+  grid-auto-rows: 500px;
+}
+
+.one{
+  background-color: #DFDFDF;
+  text-align: match-parent;
+}
+
+.titulo2{
+font-weight: bold;
+font-size: 30px;
+margin-top: 10%;
+margin-left: 100px;
+}
+
+.two{
+  background-color: #060102;
+}
+
+.image2{
+  width: 60%;
+  height: 100%;
+}
+
+.three{
+  background-color: #060102;
+}
+
+.image3{
+  width: 55%;
+  height: 100%;
+}
+
+.four{
+  background-color: #DFDFDF;
+}
+
+.five{
+  background-color: #520000;
+}
+
+.image5{
+  width: 80%;
+  height: 100%;
+}
+
+.six{
+  background-color: #060102;
+}
+
+.image4{
+  width: 85%;
+  height: 100%;
+}
+
+.seven{
+  background-color: #DFDFDF;
+}
+
+.seventitulo{
+  font-size: 50px;
+  color: #5B0808;
+  font-weight: bold;
+  text-align: center;
+}
+
+.poster{
+  width: 100%;
+  height: 100%;
+}
+
+.image5{
+  width: 55%;
+}
+
+.wrapper3{
+  
 }
