@@ -68,7 +68,7 @@ margin-left: 80%
 
 .wrapper2 {
   display: grid;
-  grid-auto-rows: 40%;
+  grid-auto-rows: 35%;
 }
 
 .one{
@@ -92,6 +92,28 @@ margin-left: 80%
 }
 
 .texto{
+  font-size: 16px;
+  margin-left: 30%;
+  font-family: inherit;
+  color: #818181 ;
+}
+
+.titulo3{
+  font-weight: bold;
+  font-size: 32px;
+  margin-top: 13%;
+  margin-left: 30%;
+  font-family: inherit;
+}
+
+.subtitulo2{
+  font-weight: bold;
+  font-size: 16px;
+  font-family: inherit;
+  margin-left: 30%;
+}
+
+.texto2{
   font-size: 16px;
   margin-left: 30%;
   font-family: inherit;
@@ -126,6 +148,7 @@ margin-left: 80%
 .five{
   background-color: #520000;
   text-align: center;
+  
 }
 
 .image5{
@@ -176,15 +199,54 @@ margin-left: 80%
   width: 60%;
   height: 85%;
 }
+
 .foto2{
   width: 60%;
   height: 85%;
 }
+
 .foto3{
   width: 60%;
   height: 85%;
 }
+
 .foto4{
   width: 60%;
   height: 85%;
+}
+
+.rodape{
+  background-color: #520000;
+}
+
+.ultimotitulo{
+  font-size: 50px;
+  color: #cfcfcf;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 2%;
+}
+
+.wrapper4{
+  display: grid;
+  grid-template-columns: repeat(3, 7fr);
+  margin-top: 5%;
+}
+
+.primeiro{
+  font-size: 20px;
+  color: #cfcfcf;
+  font-weight: bold;
+}
+
+.segundo{
+  font-size: 20px;
+  color: #cfcfcf;
+  font-weight: bold;
+}
+
+.terceiro{
+  font-size: 20px;
+  color: #cfcfcf;
+  font-weight: bold;
 }
