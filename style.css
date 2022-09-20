@@ -3,7 +3,7 @@ body{
   width: 100%;
 }
 .lala{
-background-image: url("img3.jpg");
+background-image: url("images/img3.jpg");
   background-repeat: no-repeat; 
   background-size:cover ;
   background-position: center;
