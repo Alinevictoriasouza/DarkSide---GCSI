@@ -13,4 +13,9 @@
  https://dark-side-pi.vercel.app/
 
 ## 👩‍💻Colaboradoras: 
-Aline Souza, Ana Carolina, Lauane e Rafaela.
+<ul>
+  <li>Aline Souza</li>
+  <li>Ana Carolina</li>
+  <li>Lauane</li>
+  <li>Rafaela</li>
+</ul>
